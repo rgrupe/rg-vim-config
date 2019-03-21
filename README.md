@@ -7,7 +7,7 @@ This repository contains vim setting and plug-ins configurations.
 Place .vimrc file in the root folder of your user directory.
 vim-plug: vim plug-in manager @ https://github.com/junegunn/vim-plug 
 
-#Plug-ins
+# Plug-ins
 * git-gutter https://github.com/airblade/vim-gitgutter
 * NERDtree https://github.com/scrooloose/nerdtree
 * Emmet https://github.com/mattn/emmet-vim
